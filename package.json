@@ -1,0 +1,27 @@
+{
+  "name": "learning_app_1",
+  "version": "0.0.1",
+  "description": "This is a simple learning application.",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigolima7/learning_app_1.git"
+  },
+  "keywords": [
+    "test",
+    "learning",
+    "node",
+    "typescript",
+    "sequelize",
+    "apollo"
+  ],
+  "author": "Rodrigo Lima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrigolima7/learning_app_1/issues"
+  },
+  "homepage": "https://github.com/rodrigolima7/learning_app_1#readme"
+}
